@@ -1,6 +1,6 @@
 # 📁 portafolio-analisis-funcional
 
-Bienvenido a mi portfolio de Análisis Funcional 🚀
+Bienvenido a mi portafolio de Análisis Funcional 🚀
 
 Este repositorio reúne mis proyectos desarrollados para simular el trabajo de un Analista Funcional en distintos contextos de negocio. Mi idea es representar en cada proyecto metodologías, herramientas y documentación que son utilizadas en entornos reales de desarrollo y soporte de software.
 
