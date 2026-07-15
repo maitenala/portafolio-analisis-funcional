@@ -8,9 +8,7 @@ El proyecto se desarrolla en el contexto de **SilverBank**, una entidad financie
 
 En este escenario, la gestión de reintegros de gastos se realiza de forma manual mediante correos electrónicos y planillas de cálculo, lo que dificulta el seguimiento de las solicitudes, genera demoras en su gestión y aumenta el riesgo de errores o pérdida de información.
 
-Como respuesta a esta necesidad, se propone el desarrollo de un módulo de **Reintegro de Gastos** integrado al Portal Corporativo de SilverBank. La solución permite que los empleados registren solicitudes de reintegro, que los supervisores puedan aprobarlas o rechazarlas y que el área de Finanzas gestione posteriormente su liquidación.
-
-A lo largo del proyecto se desarrollan los principales artefactos que forman parte del trabajo de un Analista Funcional, incluyendo documentación funcional, modelado de procesos (BPMN), diseño del modelo de datos, Historias de Usuario, Casos de Prueba, consultas SQL y la planificación del proyecto mediante Jira.
+Como respuesta a esta necesidad, se propone el desarrollo de un módulo de Reintegro de Gastos integrado al Portal Corporativo de SilverBank (Intranet). La solución permite que los empleados registren solicitudes de reintegro, que los supervisores puedan aprobarlas o rechazarlas y que el área de Finanzas gestione posteriormente su liquidación.
 
 ---
 
