@@ -10,8 +10,6 @@ La información utilizada es completamente ficticia y fue creada únicamente par
 
 # Creación de tablas
 
-A partir del análisis realizado sobre el proceso, se definieron las tablas necesarias para representar la información del sistema y sus relaciones.
-
 La estructura creada permite vincular:
 
 - Un empleado con varias solicitudes de reintegro.
