@@ -4,13 +4,6 @@
 
 Dentro del desarrollo del Sistema de Reintegro de Gastos se creó un modelo de base de datos relacional utilizando PostgreSQL.
 
-El objetivo fue representar las principales entidades que participan en el circuito de reintegros:
-
-- Empleados que generan solicitudes.
-- Comprobantes asociados como respaldo de los gastos realizados.
-- Solicitudes con su estado y datos principales.
-- Liquidaciones correspondientes a solicitudes procesadas.
-
 La información utilizada es completamente ficticia y fue creada únicamente para simular el funcionamiento del sistema y realizar pruebas sobre el modelo de datos.
 
 ---
