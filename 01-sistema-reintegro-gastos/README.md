@@ -4,7 +4,7 @@
 
 El proyecto se desarrolla en el contexto de **SilverBank**, una entidad financiera ficticia creada para representar un entorno de trabajo real.
 
-En este escenario, la gestión de reintegros de gastos se realiza de forma manual mediante correos electrónicos y planillas de cálculo, lo que dificulta el seguimiento de las solicitudes, genera demoras en su gestión y aumenta el riesgo de errores o pérdida de información.
+La gestión de reintegros de gastos en SilverBank se realiza de forma manual mediante correos electrónicos y planillas de cálculo, lo que dificulta el seguimiento de las solicitudes, genera demoras en su gestión y aumenta el riesgo de errores o pérdida de información.
 
 Como respuesta a esta necesidad, se propone el desarrollo de un módulo de Reintegro de Gastos integrado al Portal Corporativo de SilverBank (Intranet). La solución permite que los empleados registren solicitudes de reintegro, que los supervisores puedan aprobarlas o rechazarlas y que el área de Finanzas gestione posteriormente su liquidación.
 
