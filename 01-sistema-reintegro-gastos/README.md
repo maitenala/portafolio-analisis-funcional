@@ -2,8 +2,6 @@
 
 ## Descripción
 
-Este proyecto forma parte de mi portfolio de Análisis Funcional y fue desarrollado para simular un caso de negocio similar a los que pueden encontrarse en un entorno laboral.
-
 El proyecto se desarrolla en el contexto de **SilverBank**, una entidad financiera ficticia creada para representar un entorno de trabajo real.
 
 En este escenario, la gestión de reintegros de gastos se realiza de forma manual mediante correos electrónicos y planillas de cálculo, lo que dificulta el seguimiento de las solicitudes, genera demoras en su gestión y aumenta el riesgo de errores o pérdida de información.
