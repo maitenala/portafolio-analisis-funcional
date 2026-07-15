@@ -28,7 +28,6 @@ La estructura creada permite vincular:
 El script utilizado para crear la estructura se puede ver a continuación:
 
 ```sql
--- =============================================
 CREATE TABLE empleado (
     id SERIAL PRIMARY KEY,
     nombre VARCHAR(50) NOT NULL,
@@ -73,7 +72,6 @@ CREATE TABLE liquidacion (
         FOREIGN KEY (solicitud_id)
         REFERENCES solicitud(id)
 );
--- =============================================
 ```
 ---
 
