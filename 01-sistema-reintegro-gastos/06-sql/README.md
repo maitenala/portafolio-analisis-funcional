@@ -93,8 +93,6 @@ El código completo de las consultas se encuentra en:
 
 A continuación se muestran capturas de los resultados obtenidos al ejecutar las consultas sobre la base de datos.
 
----
-
 ## SQL-001 - Solicitudes pendientes de aprobación
 
 Consulta utilizada para identificar solicitudes que todavía requieren revisión por parte del Supervisor.
