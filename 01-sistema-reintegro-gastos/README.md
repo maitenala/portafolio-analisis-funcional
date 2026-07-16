@@ -1,7 +1,5 @@
 # Sistema de Reintegro de Gastos
 
-## Descripción
-
 El proyecto se desarrolla en el contexto de **SilverBank**, una entidad financiera ficticia creada para representar un entorno de trabajo real.
 
 Actualmente, los empleados de SilverBank pueden solicitar el reintegro de gastos realizados por motivos laborales, como viáticos, transporte o compras autorizadas, presentando los comprobantes correspondientes, esta gestión se realiza de forma manual mediante correos electrónicos y planillas de cálculo, lo que dificulta el seguimiento de las solicitudes, genera demoras en su gestión y aumenta el riesgo de errores o pérdida de información.
