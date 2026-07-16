@@ -43,6 +43,3 @@ Estado: Finalizado
 En desarrollo.
 
 ---
-
-### 📌 Implementación de un ERP para PyME
-En desarrollo.
