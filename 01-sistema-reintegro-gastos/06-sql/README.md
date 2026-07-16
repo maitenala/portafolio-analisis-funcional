@@ -1,6 +1,6 @@
 # Base de Datos y Consultas SQL
 
-## Contexto
+# Contexto
 
 Dentro del desarrollo del Sistema de Reintegro de Gastos se creó un modelo de base de datos relacional utilizando PostgreSQL.
 
