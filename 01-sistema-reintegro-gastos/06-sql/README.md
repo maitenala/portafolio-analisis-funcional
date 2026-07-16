@@ -68,8 +68,6 @@ CREATE TABLE liquidacion (
 
 # Carga de datos de prueba
 
-Para poder realizar consultas y validar el funcionamiento del modelo, se cargaron registros ficticios simulando diferentes situaciones del proceso.
-
 Los datos incluyen solicitudes con distintos estados:
 
 - Pendiente de aprobación.
